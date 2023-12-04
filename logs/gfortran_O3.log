@@ -1,0 +1,62 @@
+ 
+TIMING RESULTS:
+               IJK: CPU time    9.6879sec
+                   Wall time    9.6890sec
+              relative error =  1.11E-15
+               IKJ: CPU time   17.0952sec
+                   Wall time   17.0970sec
+              relative error =  1.11E-15
+               JIK: CPU time   10.4647sec
+                   Wall time   10.4660sec
+              relative error =  1.11E-15
+               JKI: CPU time    1.4282sec
+                   Wall time    1.4280sec
+              relative error =  1.11E-15
+               KIJ: CPU time   32.6854sec
+                   Wall time   32.6880sec
+              relative error =  1.11E-15
+               KJI: CPU time    1.9783sec
+                   Wall time    1.9790sec
+              relative error =  1.11E-15
+       IKJ, J VECT: CPU time   17.0452sec
+                   Wall time   17.0460sec
+              relative error =  1.11E-15
+       JKI, I VECT: CPU time    1.4943sec
+                   Wall time    1.4940sec
+              relative error =  1.11E-15
+       KIJ, J VECT: CPU time   32.5761sec
+                   Wall time   32.5790sec
+              relative error =  1.11E-15
+       KJI, I VECT: CPU time    1.9823sec
+                   Wall time    1.9830sec
+              relative error =  1.11E-15
+    IJ DOT_PRODUCT: CPU time    9.5519sec
+                   Wall time    9.5520sec
+              relative error =  1.11E-15
+    JI DOT_PRODUCT: CPU time   10.4334sec
+                   Wall time   10.4350sec
+              relative error =  1.11E-15
+ IJ TP DOT_PRODUCT: CPU time   18.6237sec
+                   Wall time   18.6250sec
+              relative error =  1.11E-15
+ JI TP DOT_PRODUCT: CPU time   19.8652sec
+                   Wall time   19.8670sec
+              relative error =  1.11E-15
+       IN BLOCKS A: CPU time    0.6986sec
+                   Wall time    0.6990sec
+              relative error =  1.11E-15
+       IN BLOCKS B: CPU time    3.0678sec
+                   Wall time    3.0680sec
+              relative error =  1.11E-15
+            MATMUL: CPU time    0.2691sec
+                   Wall time    0.2690sec
+              relative error =  0.00E+00
+DIVIDE AND CONQUER: CPU time    0.7889sec
+                   Wall time    0.7890sec
+              relative error =  1.36E-16
+STRASSEN ALGORITHM: CPU time    0.4783sec
+                   Wall time    0.4780sec
+              relative error =  2.53E-15
+              BLAS: CPU time    0.1810sec
+                   Wall time    0.0310sec
+              relative error =  2.07E-16
